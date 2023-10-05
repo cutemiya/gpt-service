@@ -1,0 +1,15 @@
+requests~=2.31.0
+pycryptodome
+curl_cffi
+aiohttp~=3.8.5
+certifi
+browser_cookie3
+websockets
+js2py~=0.74
+flask
+flask-cors
+typing-extensions
+PyExecJS
+fastapi~=0.103.2
+pydantic~=2.4.2
+uvicorn[standard]==0.21.*
